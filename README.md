@@ -1,13 +1,13 @@
 # Dum-E
 3d printable arm for FreeCAD practice
 
-[Dum-E View_01](/renders/Dum-E_01.png)
+![Dum-E View_01](/renders/Dum-E_01.png)
 
-[Dum-E View_02](/renders/Dum-E_02.png)
+![Dum-E View_02](/renders/Dum-E_02.png)
 
-[Dum-E View_03](/renders/Dum-E_03.png)
+![Dum-E View_03](/renders/Dum-E_03.png)
 
-[Dum-E View_04](/renders/Dum-E_04.png)
+![Dum-E View_04](/renders/Dum-E_04.png)
 
 
 ## License
